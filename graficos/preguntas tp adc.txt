@@ -1,0 +1,5 @@
+PREGUNTAS TP ADC:
+
+1) analizamos |H(jw)| o H(jw) o H(w)?
+2) Que frecuencia uso calculando la respuesta a diferentes exitaciones?
+3) Que definimos como ganacia? 
